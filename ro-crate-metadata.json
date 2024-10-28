@@ -26,12 +26,84 @@
       "license": {
         "@id": "#CreativeWork-1"
       },
-      "author": [
+      "author": {
+        "@id": "#mo_zhou-1"
+      },
+      "hasPart": [
         {
-          "@id": "#Aleksandra_Nenadic-1"
+          "@id": "ro-crate-preview.html"
         },
         {
-          "@id": "#__Steve_Crouch-1"
+          "@id": "LICENCE.md"
+        },
+        {
+          "@id": "tests/test_patient.py"
+        },
+        {
+          "@id": "tests/test_models.py"
+        },
+        {
+          "@id": "inflammation-analysis.py"
+        },
+        {
+          "@id": "README.md"
+        },
+        {
+          "@id": "data/inflammation-05.csv"
+        },
+        {
+          "@id": "data/inflammation-11.csv"
+        },
+        {
+          "@id": "data/inflammation-10.csv"
+        },
+        {
+          "@id": "data/inflammation-04.csv"
+        },
+        {
+          "@id": "data/inflammation-12.csv"
+        },
+        {
+          "@id": "data/inflammation-06.csv"
+        },
+        {
+          "@id": "data/inflammation-07.csv"
+        },
+        {
+          "@id": "data/inflammation-03.csv"
+        },
+        {
+          "@id": "data/small-02.csv"
+        },
+        {
+          "@id": "data/small-03.csv"
+        },
+        {
+          "@id": "data/inflammation-02.csv"
+        },
+        {
+          "@id": "data/small-01.csv"
+        },
+        {
+          "@id": "data/inflammation-01.csv"
+        },
+        {
+          "@id": "data/python-novice-inflammation-data.zip"
+        },
+        {
+          "@id": "data/inflammation-09.csv"
+        },
+        {
+          "@id": "data/inflammation-08.csv"
+        },
+        {
+          "@id": "inflammation/models.py"
+        },
+        {
+          "@id": "inflammation/__init__.py"
+        },
+        {
+          "@id": "inflammation/views.py"
         }
       ]
     },
@@ -41,14 +113,114 @@
       "name": "CreativeWork-1"
     },
     {
-      "@id": "#Aleksandra_Nenadic-1",
+      "@id": "#mo_zhou-1",
       "@type": "Person",
-      "name": "Aleksandra_Nenadic-1"
+      "name": "mo_zhou-1",
+      "address": [
+        "manchester",
+        "gkh"
+      ],
+      "identifier": "https://doi.org/10.5281/zenodo.6532057 "
     },
     {
-      "@id": "#__Steve_Crouch-1",
-      "@type": "Person",
-      "name": "__Steve_Crouch-1"
+      "@id": "ro-crate-preview.html",
+      "@type": "File"
+    },
+    {
+      "@id": "LICENCE.md",
+      "@type": "File"
+    },
+    {
+      "@id": "tests/test_patient.py",
+      "@type": "File"
+    },
+    {
+      "@id": "tests/test_models.py",
+      "@type": "File"
+    },
+    {
+      "@id": "inflammation-analysis.py",
+      "@type": "File"
+    },
+    {
+      "@id": "README.md",
+      "@type": "File"
+    },
+    {
+      "@id": "data/inflammation-05.csv",
+      "@type": "File"
+    },
+    {
+      "@id": "data/inflammation-11.csv",
+      "@type": "File"
+    },
+    {
+      "@id": "data/inflammation-10.csv",
+      "@type": "File"
+    },
+    {
+      "@id": "data/inflammation-04.csv",
+      "@type": "File"
+    },
+    {
+      "@id": "data/inflammation-12.csv",
+      "@type": "File"
+    },
+    {
+      "@id": "data/inflammation-06.csv",
+      "@type": "File"
+    },
+    {
+      "@id": "data/inflammation-07.csv",
+      "@type": "File"
+    },
+    {
+      "@id": "data/inflammation-03.csv",
+      "@type": "File"
+    },
+    {
+      "@id": "data/small-02.csv",
+      "@type": "File"
+    },
+    {
+      "@id": "data/small-03.csv",
+      "@type": "File"
+    },
+    {
+      "@id": "data/inflammation-02.csv",
+      "@type": "File"
+    },
+    {
+      "@id": "data/small-01.csv",
+      "@type": "File"
+    },
+    {
+      "@id": "data/inflammation-01.csv",
+      "@type": "File"
+    },
+    {
+      "@id": "data/python-novice-inflammation-data.zip",
+      "@type": "File"
+    },
+    {
+      "@id": "data/inflammation-09.csv",
+      "@type": "File"
+    },
+    {
+      "@id": "data/inflammation-08.csv",
+      "@type": "File"
+    },
+    {
+      "@id": "inflammation/models.py",
+      "@type": "File"
+    },
+    {
+      "@id": "inflammation/__init__.py",
+      "@type": "File"
+    },
+    {
+      "@id": "inflammation/views.py",
+      "@type": "File"
     }
   ]
 }
