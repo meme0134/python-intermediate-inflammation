@@ -1,0 +1,54 @@
+{
+  "@context": [
+    "https://w3id.org/ro/crate/1.1/context",
+    {
+      "@vocab": "http://schema.org/"
+    },
+    {
+      "memberOf": "http://pcdm.org/models#memberOf"
+    }
+  ],
+  "@graph": [
+    {
+      "@id": "ro-crate-metadata.json",
+      "@type": "CreativeWork",
+      "identifier": "ro-crate-metadata.json",
+      "about": {
+        "@id": "./update_wk5lab2_tryReadme"
+      }
+    },
+    {
+      "@id": "./update_wk5lab2_tryReadme",
+      "@type": "Dataset",
+      "name": "./update_wk5lab2_tryReadme",
+      "description": "try udate wk5 lab2",
+      "datePublished": "2024-10-27",
+      "license": {
+        "@id": "#CreativeWork-1"
+      },
+      "author": [
+        {
+          "@id": "#Aleksandra_Nenadic-1"
+        },
+        {
+          "@id": "#__Steve_Crouch-1"
+        }
+      ]
+    },
+    {
+      "@id": "#CreativeWork-1",
+      "@type": "CreativeWork",
+      "name": "CreativeWork-1"
+    },
+    {
+      "@id": "#Aleksandra_Nenadic-1",
+      "@type": "Person",
+      "name": "Aleksandra_Nenadic-1"
+    },
+    {
+      "@id": "#__Steve_Crouch-1",
+      "@type": "Person",
+      "name": "__Steve_Crouch-1"
+    }
+  ]
+}
